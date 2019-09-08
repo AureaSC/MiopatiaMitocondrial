@@ -205,3 +205,13 @@
 		{
 			border-top: none;
 		}
+
+		.formContainer{
+			width: 100%;
+		}
+
+		.form {
+			width: 100%; 
+			align-content: center;
+		}
+		
